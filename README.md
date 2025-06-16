@@ -42,7 +42,7 @@ cd AI-Course-Generator
 - Note your host, username, password, and port.
 
 ### 3. Configure Database in `app.py`
-Update the following section:
+
 ```python
 DB_CONFIG = {
     'host': 'localhost',
