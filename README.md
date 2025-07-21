@@ -7,14 +7,32 @@ An AI-powered educational platform that adapts quiz difficulty, course content, 
 ## 🚀 Features
 
 - ✅ User Registration & Login with PostgreSQL
-- 🎓 Personalized learning paths
-- 🧠 Cognitive & Domain Knowledge Assessments
-- 🎤 Viva Voce AI-based question generation
-- 📚 Adaptive Course Content with weekly progress
+- 🌐 Multilingual support: English, Hindi, Telugu, Kannada
+- 🎓 Personalized learning paths based on assessment results
+- 🧠 Adaptive Cognitive & Domain Knowledge Assessments
+- 🎤 AI-based Viva Voce generation & evaluation
+- 📁 File Upload (PDF, DOCX, TXT, CSV, JSON, PY, MD) with:
+  - 🔍 Gemini-powered content summarization
+  - 📝 Script generation for educational videos
+  - 🎬 Tavus API-based video creation
+- 📚 Weekly Adaptive Course Content generation
+  - 🤖 Personalized using Gemini Super Agent
+  - 📈 Based on prior quiz & performance analysis
+- 🧪 Smart Quiz Generator
+  - ✅ Supports MCQ, Multi-Select, Fill-in-the-Blank
+  - 🔄 Difficulty auto-adjusts by learner performance
 - 📊 Performance Analysis Dashboard
-- 🔐 Admin controls and performance refresh
-- 📥 Data stored securely in PostgreSQL
-
+  - 💯 IQ scoring for Cognitive, Domain, Viva
+  - 📌 Trend detection & course tweaking via Gemini
+  - 🔁 Performance summaries & topic mastery tracking
+- 🧠 AI Agents for Section-wise Tasks
+  - Pre-assessment summarizer
+  - Mini quiz analyzer
+  - Weekly quiz insights
+  - Course content generation
+  - Trending topic detector
+- 🔐 Admin tools for progress reset & configuration
+- 💾 PostgreSQL + pgAdmin data storage & management
 ---
 
 ## 🛠️ Technologies Used
