@@ -39,11 +39,20 @@ An AI-powered educational platform that adapts quiz difficulty, course content, 
 
 - Python 3
 - [Streamlit](https://streamlit.io/)
-- [PostgreSQL](https://www.postgresql.org/) + pgAdmin
-- [Google Gemini AI](https://ai.google.dev/)
-- psycopg2
-- pandas, json, datetime, re, os, tempfile
-
+- [Postgre- 🐍 Python 3
+- 🌐 [Streamlit](https://streamlit.io/) – Web UI framework
+- 🛢️ [PostgreSQL](https://www.postgresql.org/) + [pgAdmin](https://www.pgadmin.org/) – Database & Admin Tool
+- 🤖 [Google Gemini AI](https://ai.google.dev/) – Quiz, Course, and Viva Generation
+  - 🔹 Multiple Gemini Agents (Quiz, Viva, Trends, Weekly Analysis, Super Agent)
+- 🎬 [Tavus API](https://tavus.com/) – AI Video Generation from scripts
+- 📦 Libraries:
+  - `psycopg2` – PostgreSQL connector
+  - `pandas` – Data handling
+  - `re`, `json`, `datetime`, `os`, `tempfile` – Utilities
+  - `fitz` (PyMuPDF) – PDF text extraction
+  - `python-docx` – Word file parsing
+  - `requests` – API calls
+  - `base64` – Encoding uploaded file content
 ---
 
 ## 💾 Setup & Installation
